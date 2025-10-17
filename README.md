@@ -2,7 +2,7 @@
 
 Welcome to the SC SMELL Framework, a free, interactive, single-page course designed to transform your AI animation prompts from simple guesses into professional, repeatable formulas.
 
-**👉 [Try the Interactive Course Live Here!](https://github.com/Joenasriani/Prompt_for_design/blob/main/index.html)** 👈
+**👉 [Try the Interactive Course Live Here!](https://joenasriani.github.io/Prompt_for_design/) 👈
 ---
 
 ## 🎯 What Problem Does This Solve?
